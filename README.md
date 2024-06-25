@@ -27,4 +27,4 @@ This repository contains detailed manual test cases for the VPNLIT mobile applic
 
 ## Files Included
 
-- `test_cases.xlsx`: The detailed manual test cases for VPNLIT.
+- `VPNLIT Application.xlsx`: The detailed manual test cases for VPNLIT.
