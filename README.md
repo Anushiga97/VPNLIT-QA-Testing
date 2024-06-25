@@ -22,8 +22,9 @@ This repository contains detailed manual test cases for the VPNLIT mobile applic
 
 ## Significant Findings
 
-- [Summarize any critical bugs or issues found]
-- [Note any recommendations for future testing or improvements]
+- Note any recommendations for future testing or improvements-
+- 1.Immediate Fixes for Critical Bugs: Prioritize addressing the critical and high severity bugs to ensure functionalities.
+2.Improved Error Handling: Make sure the application shows clear messages and prevents users from moving forward if they haven't completed necessary steps specially during checkout.
 
 ## Files Included
 
